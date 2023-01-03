@@ -1,0 +1,105 @@
+.bgimg {
+    background-image: url("ES625QBUcAUdtBU.jpg");
+    height: 200vh;
+    background-size: cover;
+}
+.imgres {
+    width: 200px;
+    height: 100px;
+    padding: 5px;
+    background: transparent;
+}
+#joinnowbutton {
+    background-color:red;
+    text-align: center;
+    color: white;
+    padding: 15px;
+    width: 150px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;  
+    border: 2px;
+    margin-left: 20px;
+}
+#joinnowbutton:hover {
+    background-color: rgb(234, 14, 14);
+    color: rgb(239, 232, 232);
+
+}
+#signinbutton {
+    background-color:transparent;
+    text-align: center;
+    color: white;
+    padding: 15px;
+    width: 150px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;  
+    border: 2px;
+    margin-left: 20px;
+    border-color: white;
+    border-style: solid;
+}
+#signinbutton:hover {
+    background-color: rgba(235, 226, 226, 0.063);
+    color: rgb(237, 230, 230);
+}
+.mainheading {
+    color: rgb(255, 255, 255);
+    margin-top: 50px;
+    margin-left: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mainheading2 {
+    color: rgb(255, 255, 255);
+    margin-top: 50px;
+    margin-left: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+}
+.subheading1 {
+    color: rgba(255, 249, 249, 0.763);
+    margin-left: 20px;    
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.subheading2 {
+    color: rgb(251, 248, 248);
+    margin-left: 20px;    
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.subheading3 {
+    color: white;
+    margin-left: 20px;    
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.subheading4 {
+    color: white;
+    margin-left: 20px;    
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+#seasonbutton {
+    background-color:red;
+    text-align: center;
+    color: white;
+    padding: 15px;
+    width: 150px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;  
+    border: 2px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    
+}
+#seasonbutton:hover {
+    background-color: rgb(234, 14, 14);
+    color: rgb(239, 232, 232);
+
+}
